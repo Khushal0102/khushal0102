@@ -23,7 +23,7 @@
     </td>
     <td align="center">
       <a href="https://www.instagram.com/khuxh.1/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="KHUSHAL DHOLE">
+        <img src="[https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square](https://instagram.fpnq13-1.fna.fbcdn.net/v/t51.2885-19/442562092_381111154363066_6521978894719378210_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fpnq13-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=jqXHCxOEWvkQ7kNvgFSzg6w&_nc_gid=83b8a0e80cb9421990163a6e1c7c172f&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYDrhafhy0bipJEbSJEVfmfo6jcZTIz021B20X__kIPEvA&oe=67350223&_nc_sid=8b3546)" alt="KHUSHAL DHOLE">
       </a>
     </td>
     <td align="center">
@@ -56,7 +56,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
- <img src="https://instagram.fpnq13-1.fna.fbcdn.net/v/t51.2885-19/442562092_381111154363066_6521978894719378210_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fpnq13-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=jqXHCxOEWvkQ7kNvgFSzg6w&_nc_gid=83b8a0e80cb9421990163a6e1c7c172f&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYDrhafhy0bipJEbSJEVfmfo6jcZTIz021B20X__kIPEvA&oe=67350223&_nc_sid=8b3546" alt="GitHub Streak" />
+ <img src="" alt="GitHub Streak" />
 
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushal0102&custom_title=Khushal0102's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
