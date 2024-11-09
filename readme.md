@@ -27,13 +27,13 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">
+      <a href="https://www.linkedin.com/in/khushal-dhole-275b982a5/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="KHUSHAL DHOLE">
       </a>
     </td>
    <td align="center">
   <a href="https://github.com/Khushal0102" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKhushal0102&subtitle=Khushal0102&size=square" alt="Khushal0102">
+    <img src="https://avatars.githubusercontent.com/u/154591186?v=4" alt="Khushal0102">
   </a>
 </td>
 
